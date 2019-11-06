@@ -18,7 +18,11 @@ Saved both a CSV of all data retrieved and png images for each scatter plot.
 Used a Jupyter notebook.
 Used the Matplotlib or Pandas plotting libraries.
 
-![pic](Lat_VS_Wind.png)  ![pic2](Lat_VS_MaxTemp.png)
+![pic](Lat_VS_Wind.png) 
 
-![pic3](Lat_VS_Humidity.png)  ![pic4](Lat_VS_Clouds.png)
+![pic2](Lat_VS_MaxTemp.png)
+
+![pic3](Lat_VS_Humidty.png) 
+
+![pic4](Lat_VS_Clouds.png)
 
